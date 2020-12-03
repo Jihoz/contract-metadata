@@ -1,4 +1,12 @@
 {
+  "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA": {
+    "name": "Axie Infinity",
+    "logo": "axslogomm.png",
+    "erc20": true,
+    "symbol": "AXS",
+    "decimals": 18
+  },
+{
   "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
     "name": "SKALE",
     "logo": "skl.svg",
